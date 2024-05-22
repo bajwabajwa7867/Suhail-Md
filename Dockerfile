@@ -8,7 +8,7 @@
 # 
 #    * @project_name : Suhail-Md
 #    * @author : @SuhailTechInfo
-#    * @youtube : https://www.youtube.com/SuhailTechInfo
+#    * @youtube : https://youtube.com/@rehmanspeaks20?si=d4dgoA9SMxcnzEi4
 #    * @description : Suhail-Md ,A Multi-functional whatsapp bot md.
 #    * @version 1.3.7
 
